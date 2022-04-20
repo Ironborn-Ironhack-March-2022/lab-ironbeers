@@ -42,3 +42,5 @@ app.get('/random-beer', (req, res) => {
 })
 
 app.listen(3000, () => console.log('🏃‍ on port 3000'));
+
+// worked together until iteration 3 
